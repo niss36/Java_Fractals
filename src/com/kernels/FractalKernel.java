@@ -4,7 +4,6 @@ import com.aparapi.Kernel;
 import com.aparapi.Range;
 import com.aparapi.device.Device;
 import com.aparapi.internal.kernel.KernelManager;
-import com.aparapi.internal.kernel.KernelManagers;
 import com.util.Util;
 import com.util.Vec3Colour;
 import com.util.Viewport;
