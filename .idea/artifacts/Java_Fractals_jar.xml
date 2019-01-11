@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java Fractals:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Fractals_jar</output-path>
+    <root id="archive" name="Java Fractals.jar">
+      <element id="module-output" name="Java Fractals" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/aparapi/aparapi/1.10.0/aparapi-1.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/aparapi/aparapi-jni/1.4.1/aparapi-jni-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/bcel/bcel/6.2/bcel-6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
